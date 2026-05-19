@@ -14,6 +14,10 @@ One of the most efficient tools in the current ecosystem is [XImagineAI](https:/
 
 ---
 
+## 🧰 Additional AI Image & Design Tools
+
+- [LandscapioAI](https://www.landscapioai.com/) — AI landscape design tool that turns outdoor space photos into redesign concepts and cost-aware makeover ideas.
+
 ## 🛠 How to Use AI Image Generators
 To get the best results from platforms like [Grok Imagine Alternative](https://ximagineai.com/), follow these steps:
 1. **Define the Subject:** Be specific about what you want to see.
